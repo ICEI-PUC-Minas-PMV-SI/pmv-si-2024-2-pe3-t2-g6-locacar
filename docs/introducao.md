@@ -2,7 +2,7 @@
 
 O mercado de locação de veículos experimentou um alto crescimento nos últimos anos, impulsionado pelas transformações paradigmáticas na mobilidade urbana do Brasil. Para reforçar o bom momento das locadoras brasileiras, a ABL (Associação Brasileira das Locadoras de Automóveis) (1), registrou 69,3 milhões de usuários em 2022, número superior em 38,3% e 55,4% em relação a 2021 e 2020, respectivamente. Este fenômeno pode ser atribuído a diversos fatores, incluindo o elevado custo de aquisição de um veículo e o surgimento de alternativas de mobilidade urbana, como os aplicativos de motoristas, que tornaram a posse de um carro obsoleta para muitos. No entanto, ainda há momentos em que o acesso a um veículo se faz necessário.
 
-https://media.licdn.com/dms/image/v2/D4D12AQELXtoIf1_GTA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1701124355349?e=1729728000&v=beta&t=GBkvnW2HJHRy2waUnLJvQxaHlrpiV5ppt4rQiL2pV3I
+![Imagem](https://media.licdn.com/dms/image/v2/D4D12AQELXtoIf1_GTA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1701124355349?e=1729728000&v=beta&t=GBkvnW2HJHRy2waUnLJvQxaHlrpiV5ppt4rQiL2pV3I)
 
 Esses desafios evidenciam a necessidade premente de uma solução abrangente e integrada, que não apenas simplifique os processos operacionais, mas também eleve a qualidade do serviço oferecido pela locadora, garantindo uma experiência satisfatória para os clientes. É aqui que entra o LocaCar. Esta solução visa não apenas simplificar o processo de locação para as empresas, mas também elevar a qualidade e eficiência dos serviços oferecidos, aumentando, por conseguinte, a satisfação do consumidor final. 
 
