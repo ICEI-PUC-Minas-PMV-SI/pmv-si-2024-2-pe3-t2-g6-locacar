@@ -1,17 +1,5 @@
 # 1. INTRODUÇÃO
 
-O mercado de locação de veículos experimentou um alto crescimento nos últimos anos, impulsionado pelas transformações paradigmáticas na mobilidade urbana do Brasil. Para reforçar o bom momento das locadoras brasileiras, a ABL (Associação Brasileira das Locadoras de Automóveis) (1), registrou 69,3 milhões de usuários em 2022, número superior em 38,3% e 55,4% em relação a 2021 e 2020, respectivamente. Este fenômeno pode ser atribuído a diversos fatores, incluindo o elevado custo de aquisição de um veículo e o surgimento de alternativas de mobilidade urbana, como os aplicativos de motoristas, que tornaram a posse de um carro obsoleta para muitos. No entanto, ainda há momentos em que o acesso a um veículo se faz necessário. 
-
- 
-
-       Figura 1: Gráfico demonstrando o crescimento da locação diária de  
-
-automóveis no Brasil de 2020 a 2023. (2) 
-
- 
-
- 
-
 No setor de locação de veículos, uma série de desafios complexos e interligados impactam diretamente a eficiência operacional e a experiência do cliente. Entre os problemas enfrentados, destacam-se: 
 
  Controle de Frotas: A falta de um sistema integrado e eficiente para o controle de frotas dificulta a gestão dos veículos disponíveis, levando a inconsistências nos registros de manutenção, localização e disponibilidade dos automóveis. 
@@ -24,13 +12,13 @@ No setor de locação de veículos, uma série de desafios complexos e interliga
 
 Processos de Retirada e Devolução Despadronizados: A falta de um processo padronizado para a retirada e devolução dos veículos pode resultar em atrasos, erros na documentação e insatisfação por parte dos clientes, afetando negativamente a experiência geral. 
 
- 	Esses desafios evidenciam a necessidade premente de uma solução abrangente e integrada, que não apenas simplifique os processos operacionais, mas também eleve a qualidade do serviço oferecido pela locadora, garantindo uma experiência satisfatória para os clientes. É aqui que entra o LocaCar. Esta solução visa não apenas simplificar o processo de locação para as empresas, mas também elevar a qualidade e eficiência dos serviços oferecidos, aumentando, por conseguinte, a satisfação do consumidor final. 
+Esses desafios evidenciam a necessidade premente de uma solução abrangente e integrada, que não apenas simplifique os processos operacionais, mas também eleve a qualidade do serviço oferecido pela locadora, garantindo uma experiência satisfatória para os clientes. É aqui que entra o LocaCar. Esta solução visa não apenas simplificar o processo de locação para as empresas, mas também elevar a qualidade e eficiência dos serviços oferecidos, aumentando, por conseguinte, a satisfação do consumidor final. 
 
 O LocaCar representa um avanço significativo no setor, proporcionando uma plataforma intuitiva e abrangente que atende às necessidades das locadoras de veículos e dos usuários finais. Ao integrar tecnologias inovadoras de desenvolvimento WEB e modelagem de processos, o LocaCar otimiza cada etapa do processo de locação, desde a reserva até a devolução do veículo, garantindo uma experiência fluida e sem complicações. 
 
 Além disso, o LocaCar não apenas simplifica a gestão operacional das locadoras, mas também oferece recursos avançados de personalização e acompanhamento em tempo real, permitindo uma interação mais próxima com os clientes e uma resposta ágil às suas necessidades. 
 
- 	Em resumo, o LocaCar representa não apenas uma solução tecnológica para o setor de locação de veículos, mas sim uma transformação fundamental na forma como as pessoas acessam e utilizam os serviços de mobilidade. Com sua abordagem inovadora e foco na qualidade e eficiência, o LocaCar está moldando o futuro da locação de veículos e proporcionando uma experiência excepcional para todos os envolvidos. 
+Em resumo, o LocaCar representa não apenas uma solução tecnológica para o setor de locação de veículos, mas sim uma transformação fundamental na forma como as pessoas acessam e utilizam os serviços de mobilidade. Com sua abordagem inovadora e foco na qualidade e eficiência, o LocaCar está moldando o futuro da locação de veículos e proporcionando uma experiência excepcional para todos os envolvidos. 
 
 ## 1.1. Problema
 
