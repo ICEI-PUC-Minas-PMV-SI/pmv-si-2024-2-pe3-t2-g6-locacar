@@ -6,20 +6,21 @@
 
 `SEMESTRE: 3º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O sistema LocaCar representa uma solução inovadora para os desafios enfrentados pelas locadoras de veículos, visando otimizar processos e aprimorar a experiência do cliente. Ao abordar questões como a gestão manual de reservas, falta de comunicação eficiente e processos despadronizados, o LocaCar oferece uma plataforma integrada que simplifica operações e eleva os padrões de serviço. Sua implementação promete aumentar a eficiência operacional, reduzir custos e oferecer uma experiência mais satisfatória para clientes e locadoras. Embora tenhamos desafios como a curva de aprendizado, o potencial de transformação do LocaCar é indiscutível, moldando o futuro da indústria de locação de veículos. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Ana Clara Pinheiro Campos
+* Elias Marques Fonseca Mesquita Silva
+* Gustavo Henrique de Moura Luz
+* João Gabriel Perez Monteiro
+* Joao Vitor Jangola Mendes
+* Leandro Augusto Santos Araujo
+* Natália Kiefer Ferreira
 
 ## Orientador
 
-* Nome completo do professor 
+* Fábio Martins de Oliveira
 
 # Planejamento
 
