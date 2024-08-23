@@ -1,10 +1,10 @@
-# Título do Projeto
+# LocaCar
 
 `CURSO: Sistemas de Informação`
 
 `DISCIPLINA: Projeto - Design de Centrado no Usuário`
 
-`SEMESTRE: 3º`
+`Eixo 3`
 
 O sistema LocaCar representa uma solução inovadora para os desafios enfrentados pelas locadoras de veículos, visando otimizar processos e aprimorar a experiência do cliente. Ao abordar questões como a gestão manual de reservas, falta de comunicação eficiente e processos despadronizados, o LocaCar oferece uma plataforma integrada que simplifica operações e eleva os padrões de serviço. Sua implementação promete aumentar a eficiência operacional, reduzir custos e oferecer uma experiência mais satisfatória para clientes e locadoras. Embora tenhamos desafios como a curva de aprendizado, o potencial de transformação do LocaCar é indiscutível, moldando o futuro da indústria de locação de veículos. 
 
