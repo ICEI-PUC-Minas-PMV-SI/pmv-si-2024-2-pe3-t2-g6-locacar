@@ -14,18 +14,22 @@ Em resumo, o LocaCar representa não apenas uma solução tecnológica para o se
 
 ## 1.1. Problema
 
-No setor de locação de veículos, uma série de desafios complexos e interligados impactam diretamente a eficiência operacional e a experiência do cliente. Entre os problemas enfrentados, destacam-se: 
+O mercado de locação de veículos tem enfrentado vários problemas, incluindo: 
 
-- Controle de Frotas: A falta de um sistema integrado e eficiente para o controle de frotas dificulta a gestão dos veículos disponíveis, levando a inconsistências nos registros de manutenção, localização e disponibilidade dos automóveis. 
+Baixo preço de veículos seminovos:
+Os preços baixos dos veículos seminovos, combinados com juros altos e descontos em carros novos, têm reduzido as margens de lucro das locadoras e até mesmo causado prejuízos. 
 
-- Gestão Manual de Reservas: O processo de reservas realizado de forma manual, seja por telefone ou pessoalmente, resulta em erros de inserção de dados, conflitos de agendamento e retrabalho para resolver duplicidades, afetando a eficiência operacional da locadora. 
+Idade média da frota:
+Em 2023, a idade média da frota das locadoras foi reduzida em cinco meses, passando de 23,4 meses em 2022 para 18,3 meses.
+ 
+Precificação imprecisa:
+Em muitos casos, as locadoras ainda precificam os veículos com base no preço de tabela dos modelos, sem considerar o impacto do ciclo de vida do automóvel. 
 
-- Comunicação Ineficiente: A falta de uma comunicação eficiente entre os funcionários e os clientes pode causar atrasos na confirmação das reservas, indisponibilidade de veículos e desentendimentos, comprometendo a qualidade do serviço prestado. 
+Aumento das locações:
+O aumento das locações pode causar problemas socioeconômicos e ambientais, como congestionamentos, emissões de poluentes, ruídos, perdas de tempo e ineficiência energética.
 
-- Dificuldade de Acesso às Informações: A ausência de um sistema integrado dificulta o acesso às informações relevantes sobre as reservas, histórico de locações e preferências dos clientes, prejudicando a capacidade da empresa de oferecer um serviço personalizado e de qualidade. 
-
-- Processos de Retirada e Devolução Despadronizados: A falta de um processo padronizado para a retirada e devolução dos veículos pode resultar em atrasos, erros na documentação e insatisfação por parte dos clientes, afetando negativamente a experiência geral. 
-
+Gestão de frotas:
+A gestão de frotas é o processo em que as locadoras devem acompanhar tudo o que é relacionado aos veículos da empresa, abarcando questões como documentação, manutenção e todas as outras despesas envolvidas com os carros. Como essa não é a principal atividade de uma locadora, acaba sendo um grande desafio assumir esse fluxo, principalmente porque as informações costumam ficar em sistemas descentralizados. 
 
 ## 1.2. Objetivos do trabalho
 
