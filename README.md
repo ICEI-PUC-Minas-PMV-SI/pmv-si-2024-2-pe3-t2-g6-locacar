@@ -6,7 +6,11 @@
 
 `Eixo 3`
 
-O sistema LocaCar representa uma solução inovadora para os desafios enfrentados pelas locadoras de veículos, visando otimizar processos e aprimorar a experiência do cliente. Ao abordar questões como a gestão manual de reservas, falta de comunicação eficiente e processos despadronizados, o LocaCar oferece uma plataforma integrada que simplifica operações e eleva os padrões de serviço. Sua implementação promete aumentar a eficiência operacional, reduzir custos e oferecer uma experiência mais satisfatória para clientes e locadoras. Embora tenhamos desafios como a curva de aprendizado, o potencial de transformação do LocaCar é indiscutível, moldando o futuro da indústria de locação de veículos. 
+A LocaCar surge como uma resposta inovadora para os desafios da mobilidade no Brasil, redefinindo o mercado de locação de veículos com uma abordagem centrada no cliente e na eficiência operacional. Reconhecendo as dificuldades que muitos enfrentam, como a burocracia excessiva, a falta de transparência nos processos e a inconsistência nos serviços, a LocaCar oferece uma solução integrada que automatiza processos e padroniza operações.
+
+Com foco em otimizar cada etapa da experiência de locação, a LocaCar proporciona uma gestão mais eficaz, desde a reserva até a devolução do veículo, garantindo agilidade e confiabilidade. Nossa plataforma inteligente permite um controle mais preciso da frota, redução de custos operacionais e, principalmente, um atendimento personalizado que se adapta às necessidades específicas de cada cliente.
+
+Uma solução inovadora que irá elevar o nível de satisfação dos clientes, estabelecendo novos padrões na indústria de locação de veículos. A LocaCar não é apenas uma empresa de locação de veículos, mas uma parceira na mobilidade urbana, comprometida em oferecer soluções que realmente fazem a diferença.
 
 ## Integrantes
 
