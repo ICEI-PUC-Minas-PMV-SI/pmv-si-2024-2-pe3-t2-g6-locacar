@@ -1,12 +1,17 @@
 # 2. ESTADO DA ARTE
 
 
-Diante do tema do nosso trabalho estar relacionado ao aluguel e gerenciamento de veículos, realizamos pesquisas para moldar nosso plano de negócios, baseando-nos em locadoras populares nacionais, como Localiza e Movida, e em empresas internacionais, como Alamo e Rent Cars. Com as pesquisas feitas pelos alunos Elias e Natália, constatamos que, embora o design UX delas seja semelhante, as empresas nacionais apresentam, em suas páginas iniciais, propagandas constantes relacionadas ao preço de venda e aluguel de veículos. Em contrapartida, as empresas internacionais priorizam exibir, na tela inicial, os dados básicos necessários para que o usuário consiga calcular o preço do aluguel do carro, como o local de retirada e o período de locação. 
+Ao analisar o mercado de aluguel e gerenciamento de veículos para a construção de nosso plano de negócios, realizamos um estudo comparativo entre locadoras nacionais (Localiza, Movida) e internacionais (Alamo, Rent Cars).
 
-  Outra diferença clara é que as empresas internacionais, como Alamo e Rent Cars, não destacam a venda de veículos, enquanto a Localiza, por exemplo, possui uma guia dedicada à venda de seminovos em seu site. No entanto, observamos também semelhanças entre as empresas, como a escolha de cores para identificar a marca, campos de ajuda e suporte ao cliente, exibição de veículos em oferta, e seções relacionadas a perguntas frequentes, que facilitam o entendimento do cliente sobre o processo de aluguel. 
+Nossa pesquisa revelou que, embora as interfaces das empresas analisadas apresentem similaridades em termos de design UX, há diferenças significativas em suas estratégias de comunicação e foco de negócios.
 
-  Além disso, durante as pesquisas, a estudante Natália identificou um aspecto intrigante no modelo de negócio das empresas brasileiras em comparação às internacionais: a possibilidade de se ter um carro por assinatura, algo disponível apenas nas empresas brasileiras, como Localiza e Movida. Isso pode estar relacionado à atual situação econômica do país, onde muitas pessoas estão alugando carros para trabalhar como motoristas de aplicativos, buscando gerar renda suficiente para pagar o aluguel do veículo e se manter economicamente. No exterior, a demanda por carros por assinatura com essa finalidade é menor. 
+As empresas brasileiras, como Localiza e Movida, demonstram uma abordagem mais comercial, com destaque para a venda de veículos em suas páginas iniciais. Essa estratégia pode estar relacionada à necessidade de gerar receita adicional em um mercado competitivo e à crescente demanda por carros semi-novos no Brasil. Por outro lado, as empresas internacionais priorizam uma experiência de usuário mais direta, com foco na locação e na facilidade de encontrar informações sobre preços e disponibilidade de veículos.
 
+Outra diferença marcante é a oferta de carros por assinatura. Enquanto as empresas brasileiras já oferecem essa modalidade, as internacionais ainda não a exploram de forma tão ampla. A maior adesão ao carro por assinatura no Brasil pode estar associada a fatores como a instabilidade econômica e o crescimento do mercado de aplicativos de transporte, que impulsionam a demanda por veículos flexíveis.
+
+Apesar das diferenças, algumas semelhanças foram identificadas, como a utilização de cores corporativas, a disponibilização de canais de atendimento ao cliente e a oferta de seções de perguntas frequentes. Essas características demonstram a importância de uma boa experiência do usuário e da transparência nas informações para todas as empresas do setor.
+
+Em resumo, nossa pesquisa indica que o mercado de aluguel de veículos no Brasil apresenta particularidades em relação ao mercado internacional, com as empresas nacionais demonstrando uma maior adaptação às necessidades e aos hábitos de consumo dos brasileiros. Essa análise será fundamental para o desenvolvimento de nosso plano de negócios, permitindo que identifiquemos oportunidades e desafios específicos do mercado brasileiro.
 
 
 
