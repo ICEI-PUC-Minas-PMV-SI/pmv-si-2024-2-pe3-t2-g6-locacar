@@ -54,7 +54,7 @@ Em resumo, o objetivo de um sistema web voltado para o mercado de locação de v
 
 ## 1.3. Justificativa
 
-A locadora de veículos enfrenta desafios significativos em sua operação diária, desde a gestão da frota até o atendimento ao cliente. Este projeto se justifica pela necessidade de modernizar e otimizar esses processos, garantindo uma experiência mais eficiente e satisfatória tanto para a empresa quanto para os clientes. A implementação de um sistema de gestão integrada trará benefícios tangíveis, como redução de custos operacionais, aumento da produtividade da equipe e melhoria na qualidade dos serviços oferecidos. 
+O LocaCar representa um avanço significativo no setor, proporcionando uma plataforma intuitiva e abrangente que atende às necessidades das locadoras de veículos e dos usuários finais. Ao integrar tecnologias inovadoras de desenvolvimento WEB e modelagem de processos, o LocaCar otimiza cada etapa do processo de locação, desde a reserva até a devolução do veículo, garantindo uma experiência fluida e sem complicações. 
 
 ## 1.4. Público alvo
 
