@@ -3,7 +3,7 @@
 
 O mercado de aluguel e gerenciamento de veículos tem sido objeto de intensas pesquisas, com foco em identificar as melhores práticas e inovações que possam garantir a competitividade das empresas no setor. As investigações concentram-se em diversas áreas, incluindo a análise de competidores, funcionalidades técnicas, design e branding, conteúdo e SEO, modelos de preços e pacotes, segurança e confiabilidade, feedback do cliente, e estratégias de marketing e promoção. Essas áreas são essenciais para compreender as dinâmicas de mercado e identificar oportunidades de diferenciação.
 
-# Pesquisas em Desenvolvimento
+### Pesquisas em Desenvolvimento
 
 As pesquisas em andamento têm analisado tanto empresas nacionais quanto internacionais, como Localiza, Movida, Unidas, Alamo e Rent Cars. A partir dessas análises, foi possível identificar características comuns entre essas empresas, como navegação intuitiva e experiência do usuário (UX) otimizada, com informações organizadas de maneira acessível. As ofertas e promoções são constantemente destacadas, e funcionalidades como filtros de pesquisa, comparação de veículos, suporte ao cliente, identidade visual marcante, e responsividade mobile são amplamente presentes. Outros aspectos frequentemente abordados incluem estrutura de preços, avaliações e testemunhos, pesquisa de satisfação, política de privacidade e proteção de dados, e certificações e garantias.
 
