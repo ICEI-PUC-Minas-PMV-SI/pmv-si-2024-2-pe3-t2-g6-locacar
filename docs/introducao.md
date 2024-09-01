@@ -25,8 +25,6 @@ Em muitos casos, as locadoras ainda precificam os veículos com base no preço d
 Aumento das locações:
 O aumento das locações pode causar problemas socioeconômicos e ambientais, como congestionamentos, emissões de poluentes, ruídos, perdas de tempo e ineficiência energética.
 
-Gestão de frotas:
-A gestão de frotas é o processo em que as locadoras devem acompanhar tudo o que é relacionado aos veículos da empresa, abarcando questões como documentação, manutenção e todas as outras despesas envolvidas com os carros. Como essa não é a principal atividade de uma locadora, acaba sendo um grande desafio assumir esse fluxo, principalmente porque as informações costumam ficar em sistemas descentralizados. 
 
 ## 1.2. Objetivos do trabalho
 
