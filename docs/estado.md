@@ -1,17 +1,24 @@
 # 2. ESTADO DA ARTE
 
 
-Ao analisar o mercado de aluguel e gerenciamento de veículos para a construção de nosso plano de negócios, realizamos um estudo comparativo entre locadoras nacionais (Localiza, Movida) e internacionais (Alamo, Rent Cars).
+O mercado de aluguel e gerenciamento de veículos tem sido objeto de intensas pesquisas, com foco em identificar as melhores práticas e inovações que possam garantir a competitividade das empresas no setor. As investigações concentram-se em diversas áreas, incluindo a análise de competidores, funcionalidades técnicas, design e branding, conteúdo e SEO, modelos de preços e pacotes, segurança e confiabilidade, feedback do cliente, e estratégias de marketing e promoção. Essas áreas são essenciais para compreender as dinâmicas de mercado e identificar oportunidades de diferenciação.
 
-Nossa pesquisa revelou que, embora as interfaces das empresas analisadas apresentem similaridades em termos de design UX, há diferenças significativas em suas estratégias de comunicação e foco de negócios.
+# Pesquisas em Desenvolvimento
 
-As empresas brasileiras, como Localiza e Movida, demonstram uma abordagem mais comercial, com destaque para a venda de veículos em suas páginas iniciais. Essa estratégia pode estar relacionada à necessidade de gerar receita adicional em um mercado competitivo e à crescente demanda por carros semi-novos no Brasil. Por outro lado, as empresas internacionais priorizam uma experiência de usuário mais direta, com foco na locação e na facilidade de encontrar informações sobre preços e disponibilidade de veículos.
+As pesquisas em andamento têm analisado tanto empresas nacionais quanto internacionais, como Localiza, Movida, Unidas, Alamo e Rent Cars. A partir dessas análises, foi possível identificar características comuns entre essas empresas, como navegação intuitiva e experiência do usuário (UX) otimizada, com informações organizadas de maneira acessível. As ofertas e promoções são constantemente destacadas, e funcionalidades como filtros de pesquisa, comparação de veículos, suporte ao cliente, identidade visual marcante, e responsividade mobile são amplamente presentes. Outros aspectos frequentemente abordados incluem estrutura de preços, avaliações e testemunhos, pesquisa de satisfação, política de privacidade e proteção de dados, e certificações e garantias.
 
-Outra diferença marcante é a oferta de carros por assinatura. Enquanto as empresas brasileiras já oferecem essa modalidade, as internacionais ainda não a exploram de forma tão ampla. A maior adesão ao carro por assinatura no Brasil pode estar associada a fatores como a instabilidade econômica e o crescimento do mercado de aplicativos de transporte, que impulsionam a demanda por veículos flexíveis.
+# Conclusões das Pesquisas Científicas
 
-Apesar das diferenças, algumas semelhanças foram identificadas, como a utilização de cores corporativas, a disponibilização de canais de atendimento ao cliente e a oferta de seções de perguntas frequentes. Essas características demonstram a importância de uma boa experiência do usuário e da transparência nas informações para todas as empresas do setor.
+As pesquisas concluíram que há uma diferença significativa entre as práticas de empresas nacionais e internacionais. Enquanto as empresas internacionais priorizam a exibição de dados essenciais para o cálculo do preço de aluguel diretamente na tela inicial, as empresas nacionais, como a Localiza, frequentemente apresentam propagandas relacionadas ao preço de venda e aluguel de veículos. Além disso, no mercado brasileiro, há uma tendência crescente de oferecer modelos de assinatura de veículos, uma prática menos comum em mercados internacionais, possivelmente devido à maior demanda por parte de motoristas de aplicativos no Brasil.
 
-Em resumo, nossa pesquisa indica que o mercado de aluguel de veículos no Brasil apresenta particularidades em relação ao mercado internacional, com as empresas nacionais demonstrando uma maior adaptação às necessidades e aos hábitos de consumo dos brasileiros. Essa análise será fundamental para o desenvolvimento de nosso plano de negócios, permitindo que identifiquemos oportunidades e desafios específicos do mercado brasileiro.
+# Divergências entre Pesquisadores
+
+As divergências entre os pesquisadores residem principalmente na abordagem das empresas em relação ao mercado. Enquanto algumas priorizam a simplicidade e funcionalidade, outras apostam em uma experiência mais personalizada e diversificada. No entanto, há um consenso sobre a necessidade de inovação para se destacar no mercado competitivo de aluguel de veículos.
+
+# Aspectos que Carecem de Maior Abordagem
+
+Para superar a concorrência, foi sugerido o desenvolvimento de diferenciais inovadores, como a personalização avançada das opções de aluguel, integração de tecnologia de ponta, programas de fidelidade dinâmicos, e a adoção de práticas sustentáveis, como a inclusão de frotas de veículos elétricos ou híbridos. Melhorias nas áreas de design intuitivo, atendimento ao cliente e conteúdo informativo são vistas como essenciais para garantir uma experiência de usuário superior. Além disso, inovações como gamificação e medidas de segurança avançada foram destacadas como estratégias promissoras para atrair e reter clientes.
+
 
 
 
@@ -31,3 +38,7 @@ O estado da arte é um mapeamento de toda a produção acadêmica sobre um assun
 5.	Quais aspectos carecem de maior abordagem?
 
 É importante referenciar estas pesquisas, fazendo as devidas citações de acordo com as normas da ABNT e colocando as referências completas ao final do trabalho.
+
+
+
+
