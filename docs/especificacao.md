@@ -8,22 +8,22 @@ O objetivo do LocaCar é simplificar e agilizar a interação entre clientes e l
 ## 3.2 Escopo do produto
 
 ### 3.2.1 Nome do produto e seus componentes principais
-O produto será denominado SCCA – Sistema de Cadastro de Cursos de Aperfeiçoamento. Ele terá somente um componente (módulo) com os devidos elementos necessários à gestão de cursos.
+O produto será denominado LocaCar. Será um sistema web voltado para o mercado de locação de veículos. 
 
 ### 3.2.2 Missão do produto
-Gerenciar informações sobre a oferta de cursos de aperfeiçoamento, gerenciar a composição das turmas, alunos, professores e matrículas. 
+Integrar tecnologias inovadoras de desenvolvimento WEB e modelagem de processos, o LocaCar otimiza cada etapa do processo de locação, desde a reserva até a devolução do veículo, garantindo uma experiência fluida e sem complicações. 
 
 ### 3.2.3 Limites do produto
-O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcelas do curso, pagamento a professore e agendamentos. O SCCA não contempla o atendimento a vários cursos de Sistemas de Informação de outras unidades da PUC Minas.
+LocaCar irá fornecer apenas locações de veículos de pequeno e médio porte, não sendo ofertado motos e caminhões. Será ofertado veículos apenas para pessoas com idade superior a 21 anos e inferior a 70 anos. O tempo de locação mínima será de 24 horas.
 
 ### 3.2.4 Benefícios do produto
 
 | # | Benefício | Valor para o Cliente |
 |--------------------|------------------------------------|----------------------------------------|
 |1	| Facilidade no cadastro de dados |	Essencial |
-|2 | Facilidade na recuperação de informações | Essencial | 
-|3 | Segurança no cadastro de matrículas | Essencial | 
-|4	| Melhoria na comunicação com os alunos	| Recomendável | 
+|2 | Facilidade no processo de locação  | Essencial | 
+|3 | Segurança nos dados dos clientes | Essencial | 
+|4	| Interfaces amigáveis 	| Recomendável | 
 
 ## 3.3 Descrição geral do produto
 
@@ -31,10 +31,11 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 
 | Código | Requisito Funcional (Funcionalidade) | Descrição |
 |--------------------|------------------------------------|----------------------------------------|
-| RF1 | Gerenciar Curso de Aperfeiçoamento |	Processamento de Inclusão, Alteração, Exclusão e Consulta de Cursos de Aperfeiçoamento |
-| RF2 |	Gerenciar Professor	| Processamento de Inclusão, Alteração, Exclusão e Consulta de professores |
-| RF3	| Gerenciar Matrícula |	Processamento de Inclusão, Alteração, Exclusão e Consulta de Matrículas de alunos em Cursos de Aperfeiçoamento |
-| ... |	...	| ... |
+| RF1 | Reserva Online |	O sistema deve permitir que os usuários verifiquem a disponibilidade dos veículos em tempo Real |
+| RF2 |	Gerenciar Reserva Online 	| O sistema deve facilitar a escolha de veículos por categoria.   |
+| RF3	| Formas de pagamento  |	O sistema deve oferecer diferentes métodos de pagamento (cartão de crédito, cartão de débito, PIX). 
+| RF4 | Gestão de Frota   |	O sistema deve ter gerenciamento completo da frota, incluindo informações detalhadas sobre cada veículo (modelo, quilometragem, manutenção). 
+ 
 
 ### 3.3.2 Requisitos Não Funcionais
 
