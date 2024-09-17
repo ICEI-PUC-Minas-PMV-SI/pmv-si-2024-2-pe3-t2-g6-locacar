@@ -3,7 +3,7 @@
 Nesta parte do trabalho você deve detalhar a documentação dos requisitos do sistema proposto de acordo com as seções a seguir. Ressalta-se que aqui é utilizado como exemplo um sistema de gestão de cursos de aperfeiçoamento.
 
 ## 3.1 Objetivos deste documento
-Descrever e especificar as necessidades da Coordenação do Curso de Sistemas de Informação da PUC Minas que devem ser atendidas pelo projeto SCCA – Sistema de Cadastro de Cursos de Aperfeiçoamento.
+O objetivo do LocaCar é simplificar e agilizar a interação entre clientes e locadoras, permitindo a busca, seleção e locação de veículos de forma intuitiva, segura e rápida, oferecendo opções de personalização, pagamento online e suporte integrado.
 
 ## 3.2 Escopo do produto
 
