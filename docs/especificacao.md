@@ -41,18 +41,18 @@ LocaCar irá fornecer apenas locações de veículos de pequeno e médio porte, 
 
 | Código | Requisito Não Funcional (Restrição) |
 |--------------------|------------------------------------|
-| RNF1 | O ambiente operacional a ser utilizado é o Windows XP. |
-| RNF2 | O sistema deverá executar em um computador configurado com uma impressora de tecnologia laser ou de jato de tinta, a ser usada para impressão dos relatórios. |
-| RNF3 |	Segurança	O produto deve restringir o acesso por meio de senhas individuais para o usuário. |
-| ... |	... |	... |
+| RNF1 | Usabilidades: O sistema deve apresentar uma interface intuitiva e responsiva, adaptada para dispositivos móveis.  |
+| RNF2 | Manutenibilidade: O sistema deve ser modular e de fácil manutenção, permitindo atualização e correções de bugs sem grandes interrupções. |
+| RNF3 |	Confiabilidade: O sistema deve funcionar na maior parte do tempo, com poucas interrupções ou falhas. |
+| RNF4 |	Desempenho: Respostas em tempo real para consultas e reservas, com tempo de resposta inferior a 2 segundos. |
 
 ### 3.3.3 Usuários 
 
 | Ator | Descrição |
 |--------------------|------------------------------------|
-| Coordenador |	Usuário gerente do sistema responsável pelo cadastro e manutenção de cursos de aperfeiçoamento. Possui acesso geral ao sistema. |
-| Secretaria |	Usuário responsável por registros de alunos, professores, turmas e gerência de matrículas. |
-| ... |	... |	... |
+| Clientes |	São os principais usuários do sistema de locação de veículos, realizando reservas, retiradas e devoluções de automóveis. |
+| Funcionários  |	Incluem atendentes, agentes de locação, mecânicos e outros profissionais envolvidos na operação da locadora. Eles desempenham papéis cruciais na prestação de serviços de alta qualidade e no atendimento às necessidades dos clientes. |
+| Gerentes e Supervisores |	Responsáveis pela supervisão e coordenação das atividades da locadora, garantindo o cumprimento de metas e a eficiência operacional. |
 
 ## 3.4 Modelagem do Sistema
 
