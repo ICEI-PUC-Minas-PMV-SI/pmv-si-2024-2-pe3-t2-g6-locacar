@@ -31,9 +31,9 @@ LocaCar irá fornecer apenas locações de veículos de pequeno e médio porte, 
 
 | Código | Requisito Funcional (Funcionalidade) | Descrição |
 |--------------------|------------------------------------|----------------------------------------|
-| RF1 | Gerenciar Reserva |	Processamento de efetuar, editar ou excluir uma reserva.  | 
+| RF1 | Gerenciar Reserva |	Processamento de efetuar, editar ou excluir uma reserva.| 
 
-| RF2 |	Gerenciar Pagamento | Processamento da forma de pagamento, validação e aprovação.  | 
+| RF2 |	Gerenciar Pagamento | Processamento da forma de pagamento, validação e aprovação.| 
 
 | RF3 | Gerenciar Frota | Processamento de gerenciamento completo da frota, incluir e excluir veículos, quilometragem, modelo. | 
 
