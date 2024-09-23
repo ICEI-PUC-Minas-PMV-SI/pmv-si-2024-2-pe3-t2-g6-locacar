@@ -31,11 +31,39 @@ LocaCar irá fornecer apenas locações de veículos de pequeno e médio porte, 
 
 | Código | Requisito Funcional (Funcionalidade) | Descrição |
 |--------------------|------------------------------------|----------------------------------------|
-| RF1 | Reserva Online |	O sistema deve permitir que os usuários verifiquem a disponibilidade dos veículos em tempo Real |
-| RF2 |	Gerenciar Reserva Online 	| O sistema deve facilitar a escolha de veículos por categoria.   |
-| RF3	| Formas de pagamento  |	O sistema deve oferecer diferentes métodos de pagamento (cartão de crédito, cartão de débito, PIX). 
-| RF4 | Gestão de Frota   |	O sistema deve ter gerenciamento completo da frota, incluindo informações detalhadas sobre cada veículo (modelo, quilometragem, manutenção). 
- 
+| RF1 | Gerenciar Reserva |	Processamento de efetuar, editar ou excluir uma reserva.  | 
+
+| RF2 |	Gerenciar Pagamento | Processamento da forma de pagamento, validação e aprovação.  | 
+
+| RF3 | Gerenciar Frota | Processamento de gerenciamento completo da frota, incluir e excluir veículos, quilometragem, modelo. | 
+
+| RF4 | Validar Senha | Processamento de validação de senha no login. | 
+
+| RF5 | Sair do Sistema | Processamento de Logoff do usuário do sistema | 
+
+| RF6 | Gerenciar Clientes | Processamento de cadastro de clientes contendo nome, telefone, CPF/CNPJ e as demais informações pessoais. | 
+
+| RF7 | Gerenciar Cadastro | Processamento de editar e excluir cadastros. | 
+
+| RF8 | Gerenciar Seguros | Processamento de inclusão, exclusão e edição do seguro na locação do veículo. | 
+
+| RF9 | Gerenciar Checklist | Processamento de inclusão, exclusão e edição do checklist do veículo. | 
+
+| RF10 | Gerenciar Receitas | Processamento ao administrador a inclusão, exclusão e quitação de contas a receber. Além disso, deve ser permitido editar essas parcelas. | 
+
+| RF11 | Gerenciar Funcionários | Processamento de inclusão, exclusão e edição de novos e atuais funcionários. | 
+
+| RF12 | Gerenciar Usuários | Processamento de inclusão, alteração, consulta e bloqueio de usuário. | 
+
+| RF13 | Gerenciar Relatórios | Processamento de gerar, editar, adicionar informações a relatórios. | 
+
+| RF14 | Entrada no Sistema | Processamento de Login do usuário cadastrado. | 
+
+| RF15 | Gerenciar Manutenção | Processamento de incluir, editar, excluir e programar manutenção nos veículos. | 
+
+| RF16 | Gerenciar Fornecedores | Processamento de inclusão, alteração, consulta e exclusão de fornecedores. | 
+
+| RF17 | Gerenciar Despesas | Processamento ao administrador a inclusão, exclusão e quitação de contas a pagar. | 
 
 ### 3.3.2 Requisitos Não Funcionais
 
