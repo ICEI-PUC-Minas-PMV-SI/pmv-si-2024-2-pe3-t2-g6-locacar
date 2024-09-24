@@ -14,7 +14,12 @@ O produto será denominado LocaCar. Será um sistema web voltado para o mercado 
 Integrar tecnologias inovadoras de desenvolvimento WEB e modelagem de processos, o LocaCar otimiza cada etapa do processo de locação, desde a reserva até a devolução do veículo, garantindo uma experiência fluida e sem complicações. 
 
 ### 3.2.3 Limites do produto
-LocaCar irá fornecer apenas locações de veículos de pequeno e médio porte, não sendo ofertado motos e caminhões. Será ofertado veículos apenas para pessoas com idade superior a 21 anos e inferior a 70 anos. O tempo de locação mínima será de 24 horas.
+Cobertura Geográfica: O sistema pode ter restrições geográficas, funcionando apenas em certas regiões ou países devido a requisitos legais ou de infraestrutura de internet.
+Suporte a Moedas e Idiomas: Pode haver limites na quantidade de moedas e idiomas que o software suporta, especialmente em operações multinacionais.
+Gestão de Frota: Pode haver um limite máximo de veículos cadastrados ou simultaneamente gerenciados pelo sistema.
+Reserva de Veículos: O sistema pode ter uma capacidade máxima de reservas simultâneas ou no período de tempo definido.
+Tipos de Veículos: Algumas soluções podem ser limitadas em relação à variedade de categorias e especificações de veículos que podem ser gerenciadas.
+Capacidade de Customização: O software pode ter limites na personalização de recursos, como fluxos de aprovação, taxas de aluguel ou requisitos específicos do cliente.
 
 ### 3.2.4 Benefícios do produto
 
