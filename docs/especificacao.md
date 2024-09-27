@@ -73,6 +73,7 @@ Integrar tecnologias inovadoras de desenvolvimento WEB e modelagem de processos,
 | RNF13 | Disponibilidade: O sistema deve estar disponível 24/7, com uma janela de manutenção não superior a 2 horas por semana. | 
 | RNF14 | Suporte técnico: Deve garantir que os problemas reportados sejam resolvidos em até 48 horas após o chamado. | 
 | RNF15 | Portabilidade: O sistema deve ser facilmente transferido para ambientes de nuvem como AWS, Azure ou Google Cloud. 
+| RNF16 Garantir acessibilidade: O sistema deve ser acessível a todos os usuários, incluindo pessoas com deficiência, seguindo as diretrizes de acessibilidade (WCAG).
 ### 3.3.3 Usuários 
 
 | Ator | Descrição |
