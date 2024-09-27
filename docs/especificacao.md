@@ -73,10 +73,10 @@ Integrar tecnologias inovadoras de desenvolvimento WEB e modelagem de processos,
 | RNF10 | Disponibilidade: O sistema deve estar disponível 24/7, com uma janela de manutenção não superior a 2 horas por semana. | 
 | RNF11 | Conformidade legal: O sistema deve estar em conformidade com as leis de proteção de dados, como a LGPD (Lei Geral de Proteção de Dados). | 
 | RNF12 | Deve ser possível rastrear todas as alterações nos dados de reserva e cliente, incluindo histórico de transações. | 
-| RNF13 | Suporte técnico: | Deve garantir que os problemas reportados sejam resolvidos em até 48 horas após o chamado. | 
-| RNF14 | Portabilidade: | O sistema deve ser facilmente transferido para ambientes de nuvem como AWS, Azure ou Google Cloud. |
-| RNF15 | Garantir acessibilidade: | O sistema deve ser acessível a todos os usuários, incluindo pessoas com deficiência, seguindo as diretrizes de acessibilidade (WCAG).
-| RNF16 | Garantir uso de padrões web: | O sistema deve seguir as melhores práticas e padrões web, como HTML5, CSS3 e JavaScript moderno.
+| RNF13 | Suporte técnico: Deve garantir que os problemas reportados sejam resolvidos em até 48 horas após o chamado. | 
+| RNF14 | Portabilidade: O sistema deve ser facilmente transferido para ambientes de nuvem como AWS, Azure ou Google Cloud. |
+| RNF15 | Garantir acessibilidade: O sistema deve ser acessível a todos os usuários, incluindo pessoas com deficiência, seguindo as diretrizes de acessibilidade (WCAG).
+| RNF16 | Garantir uso de padrões web: O sistema deve seguir as melhores práticas e padrões web, como HTML5, CSS3 e JavaScript moderno.
 
 
 ### 3.3.3 Usuários 
