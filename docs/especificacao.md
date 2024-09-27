@@ -60,22 +60,24 @@ Integrar tecnologias inovadoras de desenvolvimento WEB e modelagem de processos,
 ### 3.3.2 Requisitos Não Funcionais
 
 | Código | Requisito Não Funcional (Restrição) |
-|--------------------|------------------------------------|
-| RNF1 | Usabilidades: O sistema deve apresentar uma interface intuitiva e responsiva, adaptada para dispositivos móveis.  | 
-| RNF2 | Manutenibilidade: O sistema deve ser modular e de fácil manutenção, permitindo atualização e correções de bugs sem grandes interrupções. | 
-| RNF3 | Confiabilidade: O sistema deve funcionar na maior parte do tempo, com poucas interrupções ou falhas. | 
-| RNF4 | Desempenho: Respostas em tempo real para consultas e reservas, com tempo de resposta inferior a 2 segundos. | 
-| RNF5 | Permissões: Quem permissões de acesso a cada área do sistema. | 
-| RNF6 | O sistema não deve permitir a exclusão de tipos de cobranças e recebimentos com vínculos. | 
-| RNF7 | O sistema deve ter capacidade para recuperar os dados perdidos da última operação que realizou em caso de falha | 
-| RNF8 | Autorização: O sistema deve garantir que usuários só acessem funcionalidades de acordo com seu nível de permissão. | 
-| RNF9 | Segurança: Todos os dados pessoais e transações financeiras devem ser criptografados, com acesso restrito por autenticação. | 
-| RNF10 | Disponibilidade: O sistema deve estar disponível 24/7, com uma janela de manutenção não superior a 2 horas por semana. | 
-| RNF11 | Conformidade legal: O sistema deve estar em conformidade com as leis de proteção de dados, como a LGPD (Lei Geral de Proteção de Dados). | 
-| RNF12 | Deve ser possível rastrear todas as alterações nos dados de reserva e cliente, incluindo histórico de transações. | 
-| RNF13 | Disponibilidade: O sistema deve estar disponível 24/7, com uma janela de manutenção não superior a 2 horas por semana. | 
-| RNF14 | Suporte técnico: Deve garantir que os problemas reportados sejam resolvidos em até 48 horas após o chamado. | 
-| RNF15 | Portabilidade: O sistema deve ser facilmente transferido para ambientes de nuvem como AWS, Azure ou Google Cloud. |
+| RNF1  | Usabilidade        | O sistema deve apresentar uma interface intuitiva e responsiva, adaptada para dispositivos móveis. |
+| RNF2  | Manutenibilidade   | O sistema deve ser modular e de fácil manutenção, permitindo atualização e correções de bugs sem grandes interrupções. |
+| RNF3  | Confiabilidade     | O sistema deve funcionar na maior parte do tempo, com poucas interrupções ou falhas. |
+| RNF4  | Desempenho         | Respostas em tempo real para consultas e reservas, com tempo de resposta inferior a 2 segundos. |
+| RNF5  | Segurança          | O sistema deve implementar permissões de acesso a cada área do sistema. |
+| RNF6  | Integridade        | O sistema não deve permitir a exclusão de tipos de cobranças e recebimentos com vínculos. |
+| RNF7  | Confiabilidade     | O sistema deve ter capacidade para recuperar os dados perdidos da última operação realizada em caso de falha. |
+| RNF8  | Autorização        | O sistema deve garantir que usuários só acessem funcionalidades de acordo com seu nível de permissão. |
+| RNF9  | Segurança          | Todos os dados pessoais e transações financeiras devem ser criptografados, com acesso restrito por autenticação. |
+| RNF10 | Disponibilidade    | O sistema deve estar disponível 24/7, com uma janela de manutenção não superior a 2 horas por semana. |
+| RNF11 | Conformidade Legal | O sistema deve estar em conformidade com as leis de proteção de dados, como a LGPD (Lei Geral de Proteção de Dados). |
+| RNF12 | Auditoria          | Deve ser possível rastrear todas as alterações nos dados de reserva e cliente, incluindo histórico de transações. |
+| RNF13 | Suporte Técnico    | Deve garantir que os problemas reportados sejam resolvidos em até 48 horas após o chamado. |
+| RNF14 | Portabilidade      | O sistema deve ser facilmente transferido para ambientes de nuvem como AWS, Azure ou Google Cloud. |
+| RNF15 | Acessibilidade     | O sistema deve ser acessível a todos os usuários, incluindo pessoas com deficiência, seguindo as diretrizes WCAG. |
+| RNF16 | Padrões Web        | O sistema deve seguir as melhores práticas e padrões web, como HTML5, CSS3 e JavaScript moderno. |
+
+
 
 ### 3.3.3 Usuários 
 
