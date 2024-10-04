@@ -92,9 +92,13 @@ Integrar tecnologias inovadoras de desenvolvimento WEB e modelagem de processos,
 ### 3.4.1 Diagrama de Casos de Uso
 Como observado no diagrama de casos de uso da Figura 1, a secretária poderá gerenciar as matrículas e professores no sistema, enquanto o coordenador, além dessas funções, poderá gerenciar os cursos de aperfeiçoamento.
 
-#### Figura 1: Diagrama de Casos de Uso do Sistema.
+#### Figura 1: Diagrama de Casos de Uso do Sistema (Funcionário).
 
 ![Caso de uso Funcionário](Imagens/caso-uso-funcionario.png)
+
+#### Figura 2: Diagrama de Casos de Uso do Sistema (Gerente).
+
+![Caso de uso Gerente](Imagens/caso-uso-gerente.png)
  
 ### 3.4.2 Descrições de Casos de Uso
 
