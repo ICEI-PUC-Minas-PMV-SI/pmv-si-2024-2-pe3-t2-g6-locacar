@@ -151,19 +151,59 @@ Pós-condições: Um professor foi inserido ou removido, seus dados foram altera
 
 ### 3.4.3 Diagrama de Classes 
 
-A Figura 2 mostra o diagrama de classes do sistema. A Matrícula deve conter a identificação do funcionário responsável pelo registro, bem com os dados do aluno e turmas. Para uma disciplina podemos ter diversas turmas, mas apenas um professor responsável por ela.
+![WhatsApp Image 2024-10-06 at 22 14 47_1577dcb5](https://github.com/user-attachments/assets/46849a80-c1eb-4609-a254-ce45cfce6501)
 
-#### Figura 2: Diagrama de Classes do Sistema.
- 
-![Caso de uso Funcionário](Imagens/caso-uso-funcionario.png)
+Estrutura do Diagrama de Classes para LocaCar:
+1.	Classe Reserva
+o	Atributos: idReserva, dataReserva, status
+o	Métodos: efetuarReserva(), cancelarReserva()
+o	Relacionamentos:
+	A Reserva está associada a um Cliente (quem realiza a reserva).
+	A Reserva também está associada a um Veiculo (o carro reservado).
+	Está conectada a um Pagamento, que é necessário para concluir a reserva.
+2.	Classe Veiculo
+o	Atributos: placa, modelo, quilometragem, status
+o	Métodos: atualizarStatus(), registrarManutencao()
+o	Relacionamentos:
+	O Veiculo está ligado à Reserva, pois ele é o veículo que o cliente reserva.
+	O Veiculo também está associado a Manutencao e Seguro para registrar reparos e garantir que o veículo esteja segurado.
+3.	Classe Cliente (Herda de Usuario)
+o	Atributos: nome, telefone, cpfCnpj
+o	Métodos: realizarReserva()
+o	Relacionamentos:
+	O Cliente realiza uma Reserva.
+	O Cliente está associado ao HistoricoLocacao, onde suas locações são registradas.
+4.	Classe Funcionario (Herda de Usuario)
+o	Atributos: idFuncionario, cargo
+o	Métodos: gerenciarReservas(), gerenciarClientes()
+o	Relacionamentos:
+	O Funcionario gerencia as Reservas, realiza manutenções em Veiculos, e gerencia Clientes.
+5.	Classe Pagamento
+o	Atributos: idPagamento, valor, formaPagamento
+o	Métodos: validarPagamento(), realizarPagamento()
+o	Relacionamentos:
+	O Pagamento está associado à Reserva, pois cada reserva exige um pagamento que deve ser validado e concluído.
+6.	Classe Manutencao
+o	Atributos: descricao, dataManutencao
+o	Métodos: programarManutencao()
+o	Relacionamentos:
+	A Manutencao está associada ao Veiculo, para que seja possível registrar reparos e manter o histórico de manutenção.
+7.	Classe Seguro
+o	Atributos: tipoSeguro, valor
+o	Métodos: incluirSeguro()
+o	Relacionamentos:
+	O Seguro está associado ao Veiculo, indicando que tipo de cobertura está disponível para aquele veículo.
+8.	Classe HistoricoLocacao
+o	Atributos: cliente, veiculo, dataLocacao
+o	Métodos: registrarLocacao()
+o	Relacionamentos:
+	O HistoricoLocacao está ligado ao Cliente e ao Veiculo, registrando todas as locações feitas por um cliente.
 
-### 3.4.4 Descrições das Classes 
+Relacionamentos Passo a Passo
 
-| # | Nome | Descrição |
-|--------------------|------------------------------------|----------------------------------------|
-| 1	|	Aluno |	Cadastro de informações relativas aos alunos. |
-| 2	| Curso |	Cadastro geral de cursos de aperfeiçoamento. |
-| 3 |	Matrícula |	Cadastro de Matrículas de alunos nos cursos. |
-| 4 |	Turma |	Cadastro de turmas.
-| 5	|	Professor |	Cadastro geral de professores que ministram as disciplinas. |
-| ... |	... |	... |
+1.	Cliente realiza uma Reserva, que está associada ao Veiculo e precisa de um Pagamento para ser concluída.
+2.	Funcionario pode gerenciar as Reservas e os Clientes.
+3.	Veiculo tem um Seguro e também pode ser registrado para Manutencao.
+4.	HistoricoLocacao mantém o registro de locações feitas, vinculando Cliente e Veiculo.
+5.	Funcionario também é responsável por tarefas de Manutencao dos veículos e por gerenciar o processo de locação de forma geral.
+
