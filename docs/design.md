@@ -56,6 +56,7 @@ Secretária e apaixonada por fotografia e paisagismo. Ela viaja frequentemente p
 
 
 
+
 <br>
 <img align = "left" width="256" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe3-t2-g6-locacar/blob/564a141a27e070b5386d71d45a2cfd307dc100e0/Guilherme%20Perreira.jpg" />
 
@@ -64,6 +65,19 @@ Secretária e apaixonada por fotografia e paisagismo. Ela viaja frequentemente p
 Proprietário de uma empresa especializada em lavagem de caixas d'água. Embora não tenha muitos passatempos devido à sua intensa rotina, ele dedica seu tempo ao planejamento da expansão do negócio. Guilherme é um empreendedor focado, sempre em busca de novas estratégias para aumentar sua base de clientes.
 
 Ele acredita que a aquisição de mais veículos para sua equipe pode facilitar o atendimento e ampliar a busca por novos clientes. Por isso, está interessado em soluções práticas para o aluguel de carros, buscando tornar esse processo mais eficiente para os funcionários da sua empresa. Determinado e visionário, Guilherme está comprometido em crescer e solidificar sua empresa no mercado, investindo em recursos que otimizem sua operação.
+
+<br clear = "left">
+
+
+
+<br>
+<img align = "left" width="256" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe3-t2-g6-locacar/blob/2f0c3ca0a2cf60d2135ec98ffd7798910e04bedf/Jose%20Vitor.jpg" />
+
+# José Vitor, 30 anos
+
+Funcionário de uma multinacional, especializado em serviços de informática, onde acumula 10 anos de experiência. Apaixonado por viajar, ele adora explorar novos lugares e culturas, mesmo sem ter um veículo próprio, confiando na praticidade dos aluguéis de carros.
+
+Curioso e sociável, gosta de compartilhar suas experiências com amigos e ajudar na organização de viagens. José busca equilibrar sua carreira com suas paixões, investindo em certificações para crescer na área de tecnologia. Apesar dos desafios de não ter um carro e a pressão no trabalho, ele se mantém determinado a aproveitar ao máximo suas aventuras e oportunidades.
 
 <br clear = "left">
 
