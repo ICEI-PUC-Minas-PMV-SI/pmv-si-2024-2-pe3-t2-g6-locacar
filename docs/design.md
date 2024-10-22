@@ -3,7 +3,7 @@
 ## 4.1 Personas
 
 <br>
-<img align = "left" width="256" src="download (2).jpg" />
+<img align = "left" width="256" src="[download (2).jpg](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe3-t2-g6-locacar/blob/3f01cd39da080688799a37bc06c87bd8431e6425/download%20(2).jpg)" />
 
 # Cassio Silva, 32 Anos
 
