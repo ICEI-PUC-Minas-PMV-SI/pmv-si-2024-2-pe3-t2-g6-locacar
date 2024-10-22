@@ -45,6 +45,15 @@ Como mãe de um filho pequeno, ela valoriza a flexibilidade de horários que a p
 <br clear = "left">
 
 
+<br>
+<img align = "left" width="256" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe3-t2-g6-locacar/blob/152354664d56a2b248c5e25daeed8d6481003cfe/Marcia%20Sena.jpg" />
+
+# Márcia Sena, 27 anos
+
+Secretária e apaixonada por fotografia e paisagismo. Ela viaja frequentemente para aprimorar seus conhecimentos, visando transformar esses hobbies em carreira. Deseja alugar veículos para facilitar suas viagens a trabalho e acessar locais inspiradores. Extrovertida e curiosa, busca equilibrar seu emprego atual com suas aspirações, enquanto procura simplificar a logística de transporte para tornar suas viagens mais eficientes.
+
+<br clear = "left">
+
 ## 4.2 Mapa de Empatia
 Mapa da Empatia é um material utilizado para conhecer melhor o seu cliente. A partir do mapa da empatia é possível detalhar a personalidade do cliente e compreendê-la melhor. O objetivo é obter um nível mais profundo de compreensão de uma persona. A seguir um exemplo de template que pode ser usado para o mapa de empatia. Para cada persona deverá ser apresentado o seu respectivo mapa de empatia. Sugere-se a utilização do template apresentado em https://www.rdstation.com/blog/marketing/mapa-da-empatia/.
 
