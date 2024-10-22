@@ -5,7 +5,7 @@
 <br>
 <img align = "left" width="256" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe3-t2-g6-locacar/blob/3f01cd39da080688799a37bc06c87bd8431e6425/download%20(2).jpg" />
 
-# Cassio Silva, 32 Anos
+# Cássio Silva, 32 Anos
 
 Cássio é um jovem adulto urbano que valoriza a praticidade no dia a dia. Trabalhando como analista de sistemas em uma grande empresa no centro de São Paulo, ele tem uma rotina agitada, com compromissos profissionais que exigem deslocamentos frequentes pela cidade.
 
