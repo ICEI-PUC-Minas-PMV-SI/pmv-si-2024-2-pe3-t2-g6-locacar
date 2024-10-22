@@ -29,6 +29,23 @@ Lourdes é bastante organizada e prefere alugar carros que sejam confortáveis e
 
 <br clear = "left">
 
+
+
+<br>
+<img align = "left" width="256" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe3-t2-g6-locacar/blob/60d4f159946500099cdcf6b42cd2560f150f97ec/Bianca.jpg
+" />
+
+# Bianca Oliveira, 28 Anos
+
+Bianca é uma jovem de 28 anos que decidiu trabalhar como motorista de aplicativo para ter mais autonomia sobre sua rotina e renda. Moradora do Rio de Janeiro, ela prefere alugar carros ao invés de possuir um veículo próprio, pois isso a livra dos altos custos de manutenção, seguro e depreciação de um carro particular.
+
+Ela aluga um carro econômico e confortável para rodar pela cidade, garantindo que seus passageiros tenham uma boa experiência. Para Bianca, ter um veículo em boas condições e com bom consumo de combustível é essencial para aumentar sua margem de lucro e garantir boas avaliações no aplicativo.
+
+Como mãe de um filho pequeno, ela valoriza a flexibilidade de horários que a profissão de motorista de aplicativo oferece. Isso permite que ela ajuste sua jornada conforme as necessidades familiares, trabalhando em horários de maior demanda ou em turnos mais curtos quando necessário. Alugar um carro oferece a flexibilidade que ela precisa sem o compromisso de possuir um veículo em longo prazo.
+
+<br clear = "left">
+
+
 ## 4.2 Mapa de Empatia
 Mapa da Empatia é um material utilizado para conhecer melhor o seu cliente. A partir do mapa da empatia é possível detalhar a personalidade do cliente e compreendê-la melhor. O objetivo é obter um nível mais profundo de compreensão de uma persona. A seguir um exemplo de template que pode ser usado para o mapa de empatia. Para cada persona deverá ser apresentado o seu respectivo mapa de empatia. Sugere-se a utilização do template apresentado em https://www.rdstation.com/blog/marketing/mapa-da-empatia/.
 
