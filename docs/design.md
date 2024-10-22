@@ -17,8 +17,7 @@ Para ele, o aluguel de carros por períodos mais curtos, como diários ou semana
 
 
 <br>
-<img align = "left" width="256" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe3-t2-g6-locacar/blob/25dcfc783fdf896d436938263efd72cac9284979/download.jpg
-" />
+<img align = "left" width="256" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe3-t2-g6-locacar/blob/25dcfc783fdf896d436938263efd72cac9284979/download.jpg" />
 
 # Lourdes Santos, 65 Anos
 
