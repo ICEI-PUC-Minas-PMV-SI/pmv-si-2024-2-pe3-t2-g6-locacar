@@ -54,6 +54,20 @@ Secretária e apaixonada por fotografia e paisagismo. Ela viaja frequentemente p
 
 <br clear = "left">
 
+
+
+<br>
+<img align = "left" width="256" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe3-t2-g6-locacar/blob/564a141a27e070b5386d71d45a2cfd307dc100e0/Guilherme%20Perreira.jpg" />
+
+# Guilherme Perreira, 40 anos
+
+Proprietário de uma empresa especializada em lavagem de caixas d'água. Embora não tenha muitos passatempos devido à sua intensa rotina, ele dedica seu tempo ao planejamento da expansão do negócio. Guilherme é um empreendedor focado, sempre em busca de novas estratégias para aumentar sua base de clientes.
+
+Ele acredita que a aquisição de mais veículos para sua equipe pode facilitar o atendimento e ampliar a busca por novos clientes. Por isso, está interessado em soluções práticas para o aluguel de carros, buscando tornar esse processo mais eficiente para os funcionários da sua empresa. Determinado e visionário, Guilherme está comprometido em crescer e solidificar sua empresa no mercado, investindo em recursos que otimizem sua operação.
+
+<br clear = "left">
+
+
 ## 4.2 Mapa de Empatia
 Mapa da Empatia é um material utilizado para conhecer melhor o seu cliente. A partir do mapa da empatia é possível detalhar a personalidade do cliente e compreendê-la melhor. O objetivo é obter um nível mais profundo de compreensão de uma persona. A seguir um exemplo de template que pode ser usado para o mapa de empatia. Para cada persona deverá ser apresentado o seu respectivo mapa de empatia. Sugere-se a utilização do template apresentado em https://www.rdstation.com/blog/marketing/mapa-da-empatia/.
 
