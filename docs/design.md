@@ -32,8 +32,7 @@ Lourdes é bastante organizada e prefere alugar carros que sejam confortáveis e
 
 
 <br>
-<img align = "left" width="256" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe3-t2-g6-locacar/blob/60d4f159946500099cdcf6b42cd2560f150f97ec/Bianca.jpg
-" />
+<img align = "left" width="256" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe3-t2-g6-locacar/blob/60d4f159946500099cdcf6b42cd2560f150f97ec/Bianca.jpg" />
 
 # Bianca Oliveira, 28 Anos
 
