@@ -15,6 +15,21 @@ Para ele, o aluguel de carros por períodos mais curtos, como diários ou semana
 
 <br clear = "left">
 
+
+<br>
+<img align = "left" width="256" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe3-t2-g6-locacar/blob/25dcfc783fdf896d436938263efd72cac9284979/download.jpg
+" />
+
+# Lourdes Santos, 65 Anos
+
+Lourdes Santos é uma aposentada de 65 anos, ex-professora de ensino fundamental, que vive uma vida tranquila em Belo Horizonte. Desde que ficou viúva e seus filhos saíram de casa, ela busca manter sua independência e aproveitar a liberdade da aposentadoria para fazer passeios ocasionais durante os fins de semana. Ela adora visitar cidades próximas, fazer viagens curtas para o campo ou para casa de amigos, mas não vê necessidade em possuir um carro próprio.
+
+Por isso, Lourdes opta pelo aluguel de carros sempre que precisa se deslocar para passeios ou pequenas viagens. Ela prefere essa solução porque mantém seus custos fixos baixos e evita preocupações com manutenção, impostos e seguro que vêm com a posse de um carro.
+
+Lourdes é bastante organizada e prefere alugar carros que sejam confortáveis e fáceis de dirigir. Ela procura modelos compactos ou sedãs, que ofereçam conforto e segurança. Ao optar pelo aluguel apenas quando necessário, Lourdes sente que faz uso inteligente de sua renda, sem comprometer sua qualidade de vida. Ela valoriza praticidade e gosta de reservar seus carros de forma fácil, seja por telefone ou por aplicativos simples, preferindo opções que ofereçam bom atendimento ao cliente e transparência nos custos.
+
+<br clear = "left">
+
 ## 4.2 Mapa de Empatia
 Mapa da Empatia é um material utilizado para conhecer melhor o seu cliente. A partir do mapa da empatia é possível detalhar a personalidade do cliente e compreendê-la melhor. O objetivo é obter um nível mais profundo de compreensão de uma persona. A seguir um exemplo de template que pode ser usado para o mapa de empatia. Para cada persona deverá ser apresentado o seu respectivo mapa de empatia. Sugere-se a utilização do template apresentado em https://www.rdstation.com/blog/marketing/mapa-da-empatia/.
 
