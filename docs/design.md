@@ -131,4 +131,4 @@ Após clicar no link de navegação “Contato” presente no header, o usuário
 ![Contato](https://github.com/user-attachments/assets/cc138798-becb-467a-8547-6734f9ed8c2e)
 
 # Link do Figma
-https://www.figma.com/design/5GCMC1S5zefdkzeXIdgwRc/LocaCar-Design?node-id=14-111&t=PdH6qlQlTUPH2j2n-1https://www.figma.com/design/5GCMC1S5zefdkzeXIdgwRc/LocaCar-Design?node-id=14-111&t=PdH6qlQlTUPH2j2n-1
+https://www.figma.com/design/5GCMC1S5zefdkzeXIdgwRc/LocaCar-Design?node-id=0-1&t=PdH6qlQlTUPH2j2n-1
