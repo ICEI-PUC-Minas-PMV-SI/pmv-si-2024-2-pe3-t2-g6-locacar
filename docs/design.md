@@ -99,5 +99,26 @@ Curioso e sociável, gosta de compartilhar suas experiências com amigos e ajuda
 
 
 ## 4.3 Protótipos das Interfaces
-Apresente nesta seção os protótipos de alta fidelidade do sistema proposto. A fidelidade do protótipo refere-se ao nível de detalhes e funcionalidades incorporadas a ele. Assim, um protótipo de alta fidelidade é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo já apresenta maior semelhança com o design final em termos de detalhes e funcionalidades. No desenvolvimento dos protótipos, devem ser considerados os princípios gestálticos, as recomendações ergonômicas e as regras de design (como as 8 regras de ouro). É importante descrever no texto do relatório como os princípios gestálticos e as regras de ouro foram seguidas no projeto das interfaces. Nesta etapa deve-se dar uma ênfase na implementação do software de modo que possam ser realizados os testes com usuários na etapa seguinte.
 
+Home: Tela padrão que é visualizada assim que o usuário acessa o sistema, o home contém um header com links de navegação e botões que levam para as telas de login e cadastro, ambos utilizam do princípio gestáltico de proximidade, onde são percebidos como dois grupos diferentes. Ademais, a header também conta com um logo, onde é possível observar o princípio de unidade e fechamento, onde o desenho do carro não está completamente fechado, entretanto, é possível visualizar o objeto da imagem. 
+![Home](https://github.com/user-attachments/assets/0ff7111d-095d-4a75-9079-7d28ce620db2)
+
+Tela de Login: O usuário será direcionado para a tela de login quando acessar o botão “Entrar” no header, onde, se já cadastrado, poderá acessar sua conta através de seu Email e senha, a tela também conta com a opção de “Esqueci minha senha” para redefinição e um link abaixo do botão de Entrar que o levará direto para a tela de cadastro, para caso ainda não tenha uma conta no site. É possível analisar a presença da lei de proximidade e similaridade nos campos de Email e de senha, onde percebemos que os campos têm funções similares.  
+![Login](https://github.com/user-attachments/assets/b757d5f3-c05c-4639-9f8f-7d7a2595c632)
+
+
+Tela de Cadastro: Com as mesmas leis de Gestalt da tela de login, a tela de cadastro conta com elementos semelhantes. Nessa tela o usuário poderá criar uma nova conta caso ainda não seja cadastrado, informando seu nome completo, Email e senha. Abaixo do botão de cadastrar, há também um link que envia para a tela de login, caso o usuário já tenha uma conta no sistema. 
+![Cadastro](https://github.com/user-attachments/assets/a9c927e9-708a-418a-803f-b36c0e28a4eb)
+
+Visualização de carros: Nessa tela, o usuário terá acesso a todos os carros existentes no sistema e seus preços, incluindo os não disponíveis, que contam com um filtro acima dos cards e um aviso de indisponibilidade. A tela também conta com um input de pesquisa localizado acima dos cards. O design dessa página foi desenvolvido pensando no princípio gestáltico da região comum, pois, para construir os cards, objetos foram posicionados dentro de uma mesma região fechada para serem percebidos como pertencentes do mesmo grupo, e isso foi repetido várias vezes, criando vários grupos diferentes que abrigam os diversos carros.
+
+![Alugar](https://github.com/user-attachments/assets/016414f7-0883-475a-b9ea-e42642e2af9d)
+
+Tela de Reserva: Após escolher um carro e clicar no botão “Reservar”, o usuário é direcionado a página de reserva, onde visualizará a descrição do carro e poderá escolher a data de retirada e devolução. As leis de Gestalt utilizadas foram a de proximidade e similaridade, onde a parte à direita da imagem, onde são encontrados os textos e informações, são interpretados como um grupo separado.
+![Reservar](https://github.com/user-attachments/assets/59b5f71a-d1c3-4808-935f-0c7e12328aa0)
+
+Check-out: Após selecionar o veículo, a data de retirada e revolução, o usuário será encaminhado para o check-out, onde o sistema irá coletar as informações necessárias para a locação. Novamente, é possível enxergar os princípios de próximidade, similaridade e região comum, os três princípios combinados ajudam a formar 3 grupos separados na tela, apesar de nenhuma barreira física explícita, onde há o grupo com os campos para coletar as informações, o grupo para selecionar a forma de pagamento e o grupo de resumo, com as informações do preço final. 
+![Check out](https://github.com/user-attachments/assets/8aa7d78c-4eed-4f32-b25b-28f6f974f796)
+
+Contato: Após clicar no link de navegação “Contato” presente no header, o usuário enviado para a tela abaixo, onde estão presentes as informações de contato e endereço da LocaCar. O princípio nesta tela foi o de similaridade, devido aos ícones e fontes semelhantes, sendo percebidos como um grupo com a mesma função. 
+![Contato](https://github.com/user-attachments/assets/cc138798-becb-467a-8547-6734f9ed8c2e)
