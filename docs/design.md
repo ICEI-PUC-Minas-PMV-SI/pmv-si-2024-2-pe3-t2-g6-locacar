@@ -118,7 +118,8 @@ Nessa tela, o usuário terá acesso a todos os carros existentes no sistema e se
 
 ![Alugar](https://github.com/user-attachments/assets/016414f7-0883-475a-b9ea-e42642e2af9d)
 
-Tela de Reserva: Após escolher um carro e clicar no botão “Reservar”, o usuário é direcionado a página de reserva, onde visualizará a descrição do carro e poderá escolher a data de retirada e devolução. As leis de Gestalt utilizadas foram a de proximidade e similaridade, onde a parte à direita da imagem, onde são encontrados os textos e informações, são interpretados como um grupo separado.
+# Tela de Reserva
+Após escolher um carro e clicar no botão “Reservar”, o usuário é direcionado a página de reserva, onde visualizará a descrição do carro e poderá escolher a data de retirada e devolução. As leis de Gestalt utilizadas foram a de proximidade e similaridade, onde a parte à direita da imagem, onde são encontrados os textos e informações, são interpretados como um grupo separado.
 ![Reservar](https://github.com/user-attachments/assets/59b5f71a-d1c3-4808-935f-0c7e12328aa0)
 
 # Check-out
