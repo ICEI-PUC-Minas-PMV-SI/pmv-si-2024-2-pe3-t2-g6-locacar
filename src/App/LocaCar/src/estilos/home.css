@@ -10,61 +10,7 @@ body{
     font-family: "Poppins", serif;
 }
 
- /*-----  HEADER -----*/
-
-header{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    text-align: center;
-    margin: 0 20px;
-}
-
-header img {
-    width: 150px;
-    height: 60px;
-    margin-top: 10px;
-}
-
-.header-links{
-    display: flex;
-    flex-direction: row;
-    list-style-type: none;
-    gap: 4em;
-    text-decoration: none;
-}
-
-.header-links a {
-    text-decoration: none;
-    color: inherit;
-    transition: 0.2s;
-}
-
-.header-links a:hover{
-    color: var(--vermelho-principal);
-}
-
-.header-btn button {
-    width: 140px;
-    height: 45px;
-    border: none;
-    background-color: var(--vermelho-principal);
-    color: var(--branco);
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-    cursor: pointer;
-    transition: 0.2s;
-    margin: 3px;
-}
-
-.header-btn button:hover {
-    scale: 1.08;
-}
-
- /*----- HOME -----*/
-
- .home-content {
+.home-content {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -93,22 +39,27 @@ header img {
     margin-bottom: 2em;
  }
 
- .home-descricao button {
-    width: 200px;
-    height: 60px;
-    border: none;
-    background-color: var(--vermelho-principal);
-    color: var(--branco);
-    font-size: 16px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-    cursor: pointer;
-    transition: 0.2s;
- }
- 
- .home-descricao button:hover {
-    scale: 1.08;
- }
+ .home-descricao .btn-link {
+   width: 200px;
+   height: 60px;
+   text-align: center; 
+   line-height: 60px; 
+   border: none;
+   background-color: var(--vermelho-principal);
+   color: var(--branco);
+   font-size: 16px;
+   border-radius: 10px;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+   cursor: pointer;
+   transition: 0.2s;
+   display: inline-block; 
+   text-decoration: none; 
+}
+
+.home-descricao .btn-link:hover {
+   background-color: var(--vermelho-circulo);
+   scale: 1.03;
+}
 
 
 .home-img img {
