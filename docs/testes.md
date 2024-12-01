@@ -8,6 +8,7 @@ Ao final, os relatórios gerados por cada membro deverão ser disponibilizados a
 
 Material de apoio para esta etapa:
 
+[Relatório_de_Testes_com_Usuário Ana (1).pdf](https://github.com/user-attachments/files/17970591/Relatorio_de_Testes_com_Usuario.Ana.1.pdf)
 
 [Avaliação_Heurística.xlsx](https://github.com/user-attachments/files/16501461/Avaliacao_Heuristica.xlsx) 
 
